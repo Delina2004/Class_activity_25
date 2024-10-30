@@ -20,13 +20,4 @@ The project is divided into three main files:
    - `id` (int): Customer ID.
    - `address` (Address): Nested `Address` structure with details.
 
-## How to Compile and Run
 
-### Prerequisites
-- C++ compiler (e.g., `g++`).
-
-### Compilation Instructions
-To compile the project, navigate to the project directory and run the following command:
-
-```bash
-g++ main.cpp Customer.cpp -o CustomerApp
